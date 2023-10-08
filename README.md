@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Antoni Van Hul</h1>
+<h1 align="center">Hi 👋, I'm Antoni Van Hul</h1>
 <h3 align="center">A passionate Data Scientist and mathematician from Spain</h3>
 
 - 💬 Ask me about **General mathematics, Machine Learning, Python, R**
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/antoni-van-hul-miralles-60b814bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antoni-van-hul-miralles-60b814bb/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antoni-van-hul-miralles-60b814bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antoni-van-hul-miralles-60b814bb/" height="30" width="40" /></a>
 <a href="https://instagram.com/@tonivanhul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@tonivanhul" height="30" width="40" /></a>
 </p>
 
